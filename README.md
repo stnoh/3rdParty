@@ -18,3 +18,4 @@ Each folder contains files as follow. Basically, I only include x64 binaries and
   + 3 mandatories: core, imgproc, highgui  
   + 4 optional modules for camera calibration, etc.: calib3d, features2d, flann, ml  
 - [AntTweakBar-1.16b](https://github.com/stnoh/AntTweakBar): This is compiled by VS2015, with fixes for GLFW3  
+- [ArUco-3.0.6](https://sourceforge.net/projects/aruco/): This is built by VS2015.  
