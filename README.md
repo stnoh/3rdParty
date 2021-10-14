@@ -19,3 +19,4 @@ Each folder contains files as follow. Basically, I only include x64 binaries and
   + 4 optional modules for camera calibration, etc.: calib3d, features2d, flann, ml  
 - [AntTweakBar-1.16b](https://github.com/stnoh/AntTweakBar): This is compiled by VS2015, with fixes for GLFW3  
 - [ArUco-3.0.6](https://sourceforge.net/projects/aruco/): This is built by VS2015.  
+- [zlib-1.2.11](https://zlib.net/): This is built by VS2017 with VS2015 compiler.  
